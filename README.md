@@ -7,3 +7,12 @@
 [我的博客](http://blog.csdn.net/guodongxiaren "Blablabla....") 
 
 ![baidu](http://www.baidu.com/img/bdlogo.gif)  
+
+
+```{Python}
+import pandas as pd
+import numpy as np
+
+A = 'This is my Github test file.'
+```
+I have no idea if this would work. $Python A$
