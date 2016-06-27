@@ -6,7 +6,7 @@
 要使用<br>  
 [我的博客](http://blog.csdn.net/guodongxiaren "Blablabla....") 
 
-![baidu](http://www.baidu.com/img/bdlogo.gif)  
+![baidu](http://www.baidu.com/img/bdlogo.gif"一家只为赚钱的公司logo")  
 
 
 ```{Python}
